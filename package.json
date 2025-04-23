@@ -17,6 +17,7 @@
     "@tailwindcss/vite": "^4.0.8",
     "svelte-motion": "^0.12.2",
     "svelte-routing": "^2.13.0",
-    "tailwindcss": "^4.0.8"
+    "tailwindcss": "^4.0.8",
+    "three": "^0.174.0"
   }
 }

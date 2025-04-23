@@ -12,7 +12,6 @@
 <main>
   <Navbar />
   <Hero />
-  <HorizontalLine />
   <About />
   <HorizontalLine />
   <Profile />
